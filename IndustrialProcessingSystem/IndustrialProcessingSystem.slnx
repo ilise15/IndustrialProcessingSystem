@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../IndustrialProcessingSystemTest/IndustrialProcessingSystemTest.csproj" Id="2f170c6a-30d6-46a7-8572-d24c2d10c7a3" />
+  <Project Path="IndustrialProcessingSystem.csproj" Id="f8b576ce-73c3-42ef-934c-69fc2571e8c0" />
+</Solution>
